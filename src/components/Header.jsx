@@ -1,5 +1,5 @@
 import React from 'react'
-import { Typography, styled } from '@mui/material';
+import { styled } from '@mui/material';
 import logo from '../images/logo.svg'
 import homelogo from '../images/home-icon.svg'
 import originallogo from '../images/original-icon.svg'
